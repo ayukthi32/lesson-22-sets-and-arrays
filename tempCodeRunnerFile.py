@@ -1,0 +1,5 @@
+print ("Original array : "+str(array_num))
+# print("The number of occurences of the number 3 in this above array:" +str(array_num.count(3)))
+# array_num.reverse()
+# print("Reverse dorder the item")
+# print(str(array_num))
